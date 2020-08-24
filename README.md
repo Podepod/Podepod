@@ -20,5 +20,5 @@
 
 <div name="stats" align="center">
   <!--a href="https://github.com/anuraghazra/github-readme-stats"></a--> 
-  <img  src="https://github-readme-stats.vercel.app/api?username=Podepod&show_icons=true&count_private=true&include_all_commits=true&theme=default" width="420" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Podepod&layout=compact&card_width=420&theme=default" height="165" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=Podepod&show_icons=true&count_private=true&include_all_commits=true&theme=default" width="420" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Podepod&layout=compact&theme=default" height="165" />
 </div>
